@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .CREDIT one-word domains still available to buy.
 
-This dataset contains 4,348 .CREDIT one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,382 .CREDIT one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.CREDIT one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=credit-oneword-domains&utm_content=description.top) (4,081) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,49 +13,49 @@ If you want to search & filters the complete database of [.CREDIT one word domai
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/credit-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/credit-oneword-domains/blob/main/credit.csv"><b>⬇️ CSV (4.35K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/credit-oneword-domains/blob/main/credit.json"><b>⬇️ JSON (4.35K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/credit-oneword-domains/blob/main/credit.csv"><b>⬇️ CSV (4.38K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/credit-oneword-domains/blob/main/credit.json"><b>⬇️ JSON (4.38K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=credit-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.08K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain            | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
-| ----------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| abactinal.credit  | available | 50       | 1%     | 9      |           |         |         |
-| abaft.credit      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.credit  | available | 58       | 10%    | 9      |           |         |         |
-| abashed.credit    | available | 60       | 2%     | 7      |           |         |         |
-| abasic.credit     | available | 54       | 2%     | 6      |           |         |         |
-| abatable.credit   | available | 54       | 1%     | 8      |           |         |         |
-| abatic.credit     | available | 54       | 2%     | 6      |           |         |         |
-| abaxial.credit    | available | 54       | 2%     | 7      |           |         |         |
-| abbatial.credit   | available | 50       | 1%     | 8      |           |         |         |
-| abdicable.credit  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.credit  | available | 82       | 1%     | 9      |           |         |         |
-| abdominous.credit | available | 56       | 1%     | 10     |           |         |         |
-| abducens.credit   | available | 54       | 1%     | 8      |           |         |         |
-| abducent.credit   | available | 68       | 1%     | 8      |           |         |         |
-| abducting.credit  | available | 50       | 1%     | 9      |           |         |         |
-| abenaki.credit    | available | 82       | 3%     | 7      |           |         |         |
-| aberdonian.credit | available | 68       | 1%     | 10     |           |         |         |
-| aberrant.credit   | available | 74       | 7%     | 8      |           |         |         |
-| abeyant.credit    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.credit  | available | 54       | 1%     | 9      |           |         |         |
-| abiding.credit    | available | 106      | 5%     | 7      |           |         |         |
-| abient.credit     | available | 54       | 1%     | 6      |           |         |         |
-| abit.credit       | available | 66       | 16%    | 5      |           |         |         |
-| abject.credit     | available | 94       | 8%     | 6      |           |         |         |
-| abkhas.credit     | available | 68       | 1%     | 6      |           |         |         |
-| abkhasian.credit  | available | 78       | 1%     | 9      |           |         |         |
-| abkhaz.credit     | available | 82       | 2%     | 6      |           |         |         |
-| abkhazian.credit  | available | 78       | 1%     | 9      |           |         |         |
-| ablated.credit    | available | 52       | 2%     | 7      |           |         |         |
-| ablative.credit   | available | 68       | 3%     | 8      |           |         |         |
+| Domain            | Status    | Attract. | Demand | Length | Registrar            | Created          | Expires          |
+| ----------------- | --------- | -------- | ------ | ------ | -------------------- | ---------------- | ---------------- |
+| aaa.credit        | resell    | 70       | 38%    | 3      | Mesh Digital Limited | 14/11/2014 22:56 | 14/11/2027 22:56 |
+| aaron.credit      | available | 88       | 32%    | 5      |                      |                  |                  |
+| abactinal.credit  | available | 50       | 1%     | 9      |                      |                  |                  |
+| abaft.credit      | available | 43       | 2%     | 5      |                      |                  |                  |
+| abandoned.credit  | available | 58       | 10%    | 9      |                      |                  |                  |
+| abashed.credit    | available | 60       | 2%     | 7      |                      |                  |                  |
+| abasic.credit     | available | 54       | 2%     | 6      |                      |                  |                  |
+| abatable.credit   | available | 54       | 1%     | 8      |                      |                  |                  |
+| abatic.credit     | available | 54       | 2%     | 6      |                      |                  |                  |
+| abaxial.credit    | available | 54       | 2%     | 7      |                      |                  |                  |
+| abbatial.credit   | available | 50       | 1%     | 8      |                      |                  |                  |
+| abdicable.credit  | available | 50       | 1%     | 9      |                      |                  |                  |
+| abdominal.credit  | available | 82       | 1%     | 9      |                      |                  |                  |
+| abdominous.credit | available | 56       | 1%     | 10     |                      |                  |                  |
+| abducens.credit   | available | 54       | 1%     | 8      |                      |                  |                  |
+| abducent.credit   | available | 68       | 1%     | 8      |                      |                  |                  |
+| abducting.credit  | available | 50       | 1%     | 9      |                      |                  |                  |
+| abenaki.credit    | available | 82       | 3%     | 7      |                      |                  |                  |
+| aberdonian.credit | available | 68       | 1%     | 10     |                      |                  |                  |
+| aberrant.credit   | available | 74       | 7%     | 8      |                      |                  |                  |
+| abeyant.credit    | available | 56       | 2%     | 7      |                      |                  |                  |
+| abhorrent.credit  | available | 54       | 1%     | 9      |                      |                  |                  |
+| abiding.credit    | available | 106      | 5%     | 7      |                      |                  |                  |
+| abient.credit     | available | 54       | 1%     | 6      |                      |                  |                  |
+| abit.credit       | available | 66       | 16%    | 5      |                      |                  |                  |
+| abject.credit     | available | 94       | 8%     | 6      |                      |                  |                  |
+| abkhas.credit     | available | 68       | 1%     | 6      |                      |                  |                  |
+| abkhasian.credit  | available | 78       | 1%     | 9      |                      |                  |                  |
+| abkhaz.credit     | available | 82       | 2%     | 6      |                      |                  |                  |
+| abkhazian.credit  | available | 78       | 1%     | 9      |                      |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/credit-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/credit-oneword-domains/blob/main/credit.csv"><b>⬇️ CSV (4.35K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/credit-oneword-domains/blob/main/credit.json"><b>⬇️ JSON (4.35K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/credit-oneword-domains/blob/main/credit.csv"><b>⬇️ CSV (4.38K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/credit-oneword-domains/blob/main/credit.json"><b>⬇️ JSON (4.38K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=credit-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.08K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
