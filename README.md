@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .CREDIT one-word domains still available to buy.
 
-This dataset contains 4,605 .CREDIT one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,604 .CREDIT one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.CREDIT one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=credit-oneword-domains&utm_content=description.top) (4,607) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,8 +13,8 @@ If you want to search & filters the complete database of [.CREDIT one word domai
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/credit-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/credit-oneword-domains/blob/main/credit.csv"><b>⬇️ CSV (4.61K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/credit-oneword-domains/blob/main/credit.json"><b>⬇️ JSON (4.61K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/credit-oneword-domains/blob/main/credit.csv"><b>⬇️ CSV (4.6K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/credit-oneword-domains/blob/main/credit.json"><b>⬇️ JSON (4.6K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=credit-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.61K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -25,7 +25,7 @@ If you want to search & filters the complete database of [.CREDIT one word domai
 | aaron.credit      | available | 88       | 32%    | 5      |                      |                  |                  |
 | abactinal.credit  | available | 50       | 1%     | 9      |                      |                  |                  |
 | abaft.credit      | available | 43       | 2%     | 5      |                      |                  |                  |
-| abandoned.credit  | available | 58       | 10%    | 9      |                      |                  |                  |
+| abandoned.credit  | available | 58       | 7%     | 9      |                      |                  |                  |
 | abashed.credit    | available | 60       | 2%     | 7      |                      |                  |                  |
 | abasic.credit     | available | 54       | 2%     | 6      |                      |                  |                  |
 | abatable.credit   | available | 54       | 1%     | 8      |                      |                  |                  |
@@ -33,7 +33,7 @@ If you want to search & filters the complete database of [.CREDIT one word domai
 | abaxial.credit    | available | 54       | 2%     | 7      |                      |                  |                  |
 | abbatial.credit   | available | 50       | 1%     | 8      |                      |                  |                  |
 | abdicable.credit  | available | 50       | 1%     | 9      |                      |                  |                  |
-| abdominal.credit  | available | 82       | 1%     | 9      |                      |                  |                  |
+| abdominal.credit  | available | 82       | 5%     | 9      |                      |                  |                  |
 | abdominous.credit | available | 56       | 1%     | 10     |                      |                  |                  |
 | abducens.credit   | available | 54       | 1%     | 8      |                      |                  |                  |
 | abducent.credit   | available | 68       | 1%     | 8      |                      |                  |                  |
@@ -42,7 +42,7 @@ If you want to search & filters the complete database of [.CREDIT one word domai
 | aberdonian.credit | available | 68       | 1%     | 10     |                      |                  |                  |
 | aberrant.credit   | available | 74       | 7%     | 8      |                      |                  |                  |
 | abeyant.credit    | available | 56       | 2%     | 7      |                      |                  |                  |
-| abhorrent.credit  | available | 54       | 1%     | 9      |                      |                  |                  |
+| abhorrent.credit  | available | 54       | 3%     | 9      |                      |                  |                  |
 | abiding.credit    | available | 106      | 5%     | 7      |                      |                  |                  |
 | abient.credit     | available | 54       | 1%     | 6      |                      |                  |                  |
 | ability.credit    | available | 92       | 18%    | 7      |                      |                  |                  |
@@ -54,8 +54,8 @@ If you want to search & filters the complete database of [.CREDIT one word domai
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/credit-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/credit-oneword-domains/blob/main/credit.csv"><b>⬇️ CSV (4.61K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/credit-oneword-domains/blob/main/credit.json"><b>⬇️ JSON (4.61K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/credit-oneword-domains/blob/main/credit.csv"><b>⬇️ CSV (4.6K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/credit-oneword-domains/blob/main/credit.json"><b>⬇️ JSON (4.6K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=credit-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.61K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.CREDIT one word domai
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
