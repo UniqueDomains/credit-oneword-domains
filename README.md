@@ -3,20 +3,20 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C294%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C293%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C294%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .credit one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .credit one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 9,293-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **9,294 domains** on the canonical page below.
 
-**Public extract:** 9,294 rows · **Live catalog:** 9,294 domains
+**Public extract:** 9,293 rows · **Live catalog:** 9,294 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/credit`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .CREDIT one-word domai
 
 ### Files
 
-- `credit.csv` — public CSV extract (9,294 rows)
-- `credit.json` — public JSON extract (9,294 rows)
+- `credit.csv` — public CSV extract (9,293 rows)
+- `credit.json` — public JSON extract (9,293 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -67,10 +67,10 @@ print(df.head())
 | creative.credit | available | $11.99    | $141.99       | 92             | 45     | 8      | name.com                                                  |
 | fuck.credit     | resell    | —         | —             | 124            | 70     | 4      | GoDaddy.com, LLC                                          |
 | ace.credit      | premium   | $128.70   | $128.70       | 88             | 57     | 3      | namecheap                                                 |
-| food.credit     | available | $131.98   | —             | 94             | 44     | 4      | namecheap                                                 |
+| mix.credit      | available | $11.99    | $141.99       | 66             | 45     | 3      | name.com                                                  |
 | get.credit      | resell    | —         | —             | 88             | 69     | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 | live.credit     | premium   | $500      | $500          | 108            | 56     | 4      | name.com                                                  |
-| mix.credit      | available | $11.99    | $141.99       | 66             | 44     | 3      | name.com                                                  |
+| food.credit     | available | $131.98   | —             | 94             | 44     | 4      | namecheap                                                 |
 | easy.credit     | resell    | —         | —             | 128            | 68     | 4      | GoDaddy.com, LLC                                          |
 | travel.credit   | premium   | $520      | $520          | 115            | 48     | 6      | namecheap                                                 |
 | wizard.credit   | available | $11.99    | $141.99       | 118            | 43     | 6      | name.com                                                  |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,294-row public sample | 9,294 live domains                               |
+| 9,293-row public sample | 9,294 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CREDIT One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CREDIT One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
