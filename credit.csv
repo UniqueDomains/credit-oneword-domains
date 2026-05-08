@@ -248,6 +248,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 151cf82a-0f16-4e29-81ed-314c73070c37,manages.credit,available,11.99,,56,3,7,name.com,,
 15256842-9042-4358-9357-674374e62a21,fitlikeaglove.credit,available,11.99,,76,1,16,name.com,,
 15393ecc-7aa0-4327-bcb8-ebb3c98d6f57,scoopthepool.credit,available,11.99,,44,1,14,name.com,,
+15538699-8bd8-42a2-b930-333cd7eaf86a,journey.credit,premium,,,72,34,7,,,
 1559026d-550d-4d51-8ae1-3823710d77ac,commonlog.credit,available,11.99,,50,1,10,name.com,,
 155c54ca-c64f-4668-a509-4d64fa4fd982,notebooks.credit,available,11.99,,56,9,9,name.com,,
 156792c2-87ed-4b6f-9f0a-0fea4004b722,BonfireNight.credit,available,131.98,,64,1,13,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 56f269cc-016d-40bf-bf9c-d2e94c06b06f,goonthen.credit,available,11.99,,48,1,10,name.com,,
 56f56947-2dca-4be0-b924-2d7168567778,continentalplate.credit,available,11.99,,42,1,17,name.com,,
 570811f7-b973-4b73-b31c-1874124afa82,inhouse.credit,available,11.99,,70,23,8,name.com,,
-57279b8b-3a37-412a-8c5a-b9b82b58baff,contains.credit,available,11.99,,54,4,8,name.com,,
