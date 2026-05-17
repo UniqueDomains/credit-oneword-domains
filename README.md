@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .credit one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,261 domains · **Median ask:** $22.71 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/credit`  
 **Best for:** founders, investors, studios
 
@@ -69,7 +69,7 @@ print(df.head())
 | gives.credit     | premium   | $250      | —             | 52             | 12     | 5      | name.com         |
 | lets.credit      | available | $11.99    | —             | 77             | 39     | 4      | name.com         |
 | business.credit  | resell    | —         | —             | 90             | 52     | 8      | Porkbun LLC      |
-| payoff.credit    | premium   | $135.99   | —             | 70             | 8      | 7      | name.com         |
+| payoff.credit    | premium   | $135.99   | —             | 70             | 9      | 7      | name.com         |
 | justin.credit    | available | $11.99    | —             | 58             | 38     | 7      | name.com         |
 | global.credit    | resell    | —         | —             | 86             | 52     | 6      | Porkbun LLC      |
 | journey.credit   | premium   | —         | —             | 72             | 34     | 7      | —                |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CREDIT One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CREDIT One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
