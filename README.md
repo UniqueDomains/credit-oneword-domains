@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .credit one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,262 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,262 domains · **Median ask:** $22.71 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,262 domains · **Median ask:** $16.59 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/credit`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/credit`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CREDIT one-word domai
 
 ### Files
 
-- `credit.csv` — public CSV extract (1,000 rows)
-- `credit.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `credit.csv`, public CSV extract (1,000 rows)
+- `credit.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| matcha.credit    | available | $11.99    | —             | 86             | 39     | 6      | name.com         |
-| online.credit    | resell    | —         | —             | 70             | 62     | 7      | GoDaddy.com, LLC |
-| gives.credit     | premium   | $250      | —             | 52             | 12     | 5      | name.com         |
-| lets.credit      | available | $11.99    | —             | 77             | 39     | 4      | name.com         |
-| business.credit  | resell    | —         | —             | 90             | 52     | 8      | Porkbun LLC      |
-| payoff.credit    | premium   | $135.99   | —             | 70             | 9      | 7      | name.com         |
-| justin.credit    | available | $11.99    | —             | 58             | 38     | 7      | name.com         |
-| global.credit    | resell    | —         | —             | 86             | 52     | 6      | Porkbun LLC      |
-| journey.credit   | premium   | —         | —             | 72             | 34     | 7      | —                |
-| events.credit    | available | $11.99    | —             | 68             | 37     | 6      | name.com         |
-| doctors.credit   | resell    | —         | —             | 56             | 26     | 7      | GoDaddy.com, LLC |
-| stories.credit   | available | $11.99    | —             | 58             | 36     | 7      | name.com         |
-| investors.credit | resell    | —         | —             | 60             | 23     | 9      | Dynadot Inc      |
-| spectra.credit   | available | $11.99    | —             | 62             | 34     | 7      | name.com         |
-| William.credit   | available | $131.98   | —             | 74             | 31     | 7      | namecheap        |
-| letsgo.credit    | available | $11.99    | —             | 57             | 31     | 7      | name.com         |
-| maps.credit      | available | $11.99    | —             | 56             | 31     | 4      | name.com         |
-| videos.credit    | available | $11.99    | —             | 52             | 30     | 6      | name.com         |
-| heroes.credit    | available | $11.99    | —             | 68             | 29     | 6      | name.com         |
-| brands.credit    | available | $11.99    | —             | 62             | 28     | 6      | name.com         |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| just.credit    | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC                                              |
+| btw.credit     | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
+| art.credit     | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC                                              |
+| ace.credit     | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                                                 |
+| dad.credit     | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
+| ice.credit     | resell    | —         | —             | medium         | medium | 3      | Metaregistrar BV                                          |
+| fly.credit     | premium   | $242      | $242          | high           | low    | 3      | namesilo                                                  |
+| egg.credit     | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
+| tax.credit     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                               |
+| usa.credit     | premium   | $500      | —             | high           | medium | 3      | name.com                                                  |
+| had.credit     | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
+| flow.credit    | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 1                                          |
+| want.credit    | premium   | $500      | —             | high           | low    | 4      | name.com                                                  |
+| ham.credit     | available | $11.99    | —             | medium         | low    | 3      | name.com                                                  |
+| fuck.credit    | resell    | —         | —             | high           | high   | 4      | GoDaddy.com, LLC                                          |
+| fixed.credit   | premium   | $118.80   | $118.80       | medium         | low    | 5      | namesilo                                                  |
+| may.credit     | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
+| healthy.credit | premium   | $500      | —             | high           | low    | 7      | name.com                                                  |
+| mum.credit     | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
+| real.credit    | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .credit domains. The strongest candidates are usually the names where the word and the extension read cleanly together, especially for lending, credit scoring, consumer finance, or education around credit. Examples such as retire.credit and club.credit feel more direct than off-theme terms like dinner.credit or wrist.credit. With a median ask of 22.71, entry price may look light, but founders should still check whether the name is credible and memorable, while investors should focus on whether the keyword has realistic end-user demand. In this set, semantic fit matters more than novelty.
+This selection focuses on one-word .credit domain names, an extension that signals a direct connection to credit, lending, and financial trust. With 12,262 domains and a median ask near $17, most names here are affordable enough for early-stage testing or a first brand launch. Because pricing sits close to standard registration cost for many listings, the real work is in choosing a name that reads cleanly, avoids trademark conflicts, and fits a credit or finance-adjacent product. Names in this set range from short action phrases to descriptive terms, giving founders and buyers a wide pool to filter through by relevance and tone.
 
-- All results are one-word domains on the .credit extension
-- Median ask is 22.71 across this selection
-- Best fits pair naturally with finance or credit use cases
-- Check trademark risk and renewal cost before deciding
+- 12,262 one-word .credit domain names in this selection
+- Median ask near $17 keeps most names affordable
+- Ideal for credit, lending, and fintech-adjacent brands
+- Updated daily to reflect current availability and pricing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CREDIT One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CREDIT One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
