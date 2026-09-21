@@ -2,7 +2,6 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 e76b7c21-4a1f-40f7-9102-4c4d76860e83,aboutship.credit,available,11.99,,high,low,10,name.com,,,
 b0941c88-44f2-4993-9b51-348d013f1afa,scornful.credit,available,11.99,141.99,medium,low,8,name.com,,,
 65489f57-48fe-4aa2-bb2b-07a672b6cfcb,sixtysix.credit,available,,,medium,low,9,,,,
-ccbb7338-bf0e-429d-8411-42e4b3469301,invalid.credit,available,,,high,low,7,,,,
 b48b3a89-cab3-498e-8d11-3863e88c4ce8,oldgeezer.credit,available,9.48,131.98,low,low,10,namecheap,,,05/08/2026 19:25
 554842a3-388c-4a7a-9226-f6f10fa8f995,verse.credit,available,11.99,,high,low,5,name.com,,,
 1b441bdd-e12b-4e79-a636-cc25bc391f2d,experimental.credit,available,11.99,,high,low,12,name.com,,,
@@ -263,7 +262,7 @@ c1f2e04a-764c-4a37-b38d-122ce9399978,inspirational.credit,available,11.99,,high,
 1fc28888-5a4e-4571-bcfb-88cd314ba2c3,fish.credit,available,11.99,,high,low,4,name.com,,,
 6b249116-ce9e-455d-889e-0cedd8ca92d9,secured.credit,premium,242,242,high,low,7,namesilo,,,
 340efb29-5cbf-4d49-81ff-4323806a1e2d,fancy.credit,available,11.99,,high,low,5,name.com,,,
-e4d69071-e4d0-4255-ac4a-250d76a46472,chiefly.credit,available,11.49,104.99,low,low,7,namesilo,,,19/09/2026 02:53
+e4d69071-e4d0-4255-ac4a-250d76a46472,chiefly.credit,available,9.48,131.98,low,low,7,namecheap,,,20/09/2026 23:12
 58372976-7b7f-4d43-b3d4-ae3000d2ebd5,cows.credit,available,11.99,,medium,low,4,name.com,,,
 a9f12a02-9415-458c-b03c-25f3cf2893a0,bridges.credit,available,11.99,,high,low,7,name.com,,,
 00f59332-7667-414a-81fa-381bf87be8c9,graywolf.credit,available,11.99,,high,low,9,name.com,,,
@@ -999,3 +998,4 @@ f2639bf6-c87e-4314-b4b8-86aefb311d9b,bali.credit,available,11.99,,medium,medium,
 21d6bdca-222b-493d-97bc-b2d13e2dd2f1,stepson.credit,available,11.99,,high,low,7,name.com,,,
 0bce870f-bb53-48e2-bb73-fcdcaf9d1883,atrip.credit,available,9.48,131.98,low,low,5,namecheap,,,07/08/2026 14:33
 aa17706c-3604-4edc-af75-61b848cef649,saint.credit,available,11.99,,high,low,5,name.com,,,
+9bc3d5d8-1b5e-4222-ae7e-c10bb07a9b0a,birthday.credit,available,11.99,,high,low,8,name.com,,,

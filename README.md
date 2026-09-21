@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .credit one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 28,602 domains · **Median ask:** $11.94 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/credit`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,8 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| just.credit    | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC                                              |
+| time.credit    | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 31                                         |
 | ass.credit     | available | $9.48     | $131.98       | low            | low    | 3      | namecheap                                                 |
 | ice.credit     | resell    | —         | —             | low            | low    | 3      | Metaregistrar BV                                          |
 | ace.credit     | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                                                 |
@@ -77,13 +79,11 @@ print(df.head())
 | fuck.credit    | resell    | —         | —             | high           | high   | 4      | GoDaddy.com, LLC                                          |
 | want.credit    | premium   | $500      | —             | high           | low    | 4      | name.com                                                  |
 | had.credit     | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
-| just.credit    | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC                                              |
 | fixed.credit   | premium   | $118.80   | $118.80       | medium         | low    | 5      | namesilo                                                  |
 | ham.credit     | available | $11.99    | —             | medium         | low    | 3      | name.com                                                  |
 | real.credit    | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 | healthy.credit | premium   | $500      | —             | high           | low    | 7      | name.com                                                  |
 | may.credit     | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
-| soft.credit    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC                                              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CREDIT One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CREDIT One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
