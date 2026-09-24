@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .credit one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,295 domains · **Median ask:** $11.88 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/credit`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| ass.credit     | available | $9.48     | $131.98       | low            | low    | 3      | namecheap                                                 |
-| ice.credit     | resell    | —         | —             | low            | low    | 3      | Metaregistrar BV                                          |
-| fly.credit     | premium   | $242      | $242          | high           | low    | 3      | namesilo                                                  |
-| btw.credit     | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
-| tax.credit     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                               |
-| usa.credit     | premium   | $500      | —             | high           | medium | 3      | name.com                                                  |
-| dad.credit     | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
-| edge.credit    | resell    | —         | —             | low            | low    | 4      | Sav.com, LLC                                              |
-| want.credit    | premium   | $500      | —             | high           | low    | 4      | name.com                                                  |
-| egg.credit     | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
-| flow.credit    | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 1                                          |
-| fixed.credit   | premium   | $118.80   | $118.80       | medium         | low    | 5      | namesilo                                                  |
-| had.credit     | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
-| fuck.credit    | resell    | —         | —             | high           | high   | 4      | GoDaddy.com, LLC                                          |
-| healthy.credit | premium   | $500      | —             | high           | low    | 7      | name.com                                                  |
-| ham.credit     | available | $11.99    | —             | medium         | low    | 3      | name.com                                                  |
-| just.credit    | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC                                              |
-| kingdom.credit | premium   | $500      | —             | high           | low    | 7      | name.com                                                  |
-| may.credit     | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
-| real.credit    | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| time.credit    | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 31 |
+| fancy.credit   | available | $11.99    | —             | high           | low    | 5      | name.com          |
+| fuck.credit    | resell    | —         | —             | high           | high   | 4      | GoDaddy.com, LLC  |
+| pardon.credit  | available | $11.99    | —             | high           | low    | 6      | name.com          |
+| most.credit    | available | $11.99    | —             | high           | low    | 4      | name.com          |
+| ass.credit     | available | $9.48     | $131.98       | low            | low    | 3      | namecheap         |
+| ice.credit     | resell    | —         | —             | low            | low    | 3      | Metaregistrar BV  |
+| fly.credit     | premium   | $242      | $242          | high           | low    | 3      | namesilo          |
+| btw.credit     | available | $11.99    | —             | high           | low    | 3      | name.com          |
+| tax.credit     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc       |
+| usa.credit     | premium   | $500      | —             | high           | medium | 3      | name.com          |
+| dad.credit     | available | $11.99    | —             | high           | low    | 3      | name.com          |
+| edge.credit    | resell    | —         | —             | low            | low    | 4      | Sav.com, LLC      |
+| want.credit    | premium   | $500      | —             | high           | low    | 4      | name.com          |
+| egg.credit     | available | $11.99    | —             | high           | low    | 3      | name.com          |
+| flow.credit    | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 1  |
+| fixed.credit   | premium   | $118.80   | $118.80       | medium         | low    | 5      | namesilo          |
+| gay.credit     | available | $9.48     | $131.98       | medium         | low    | 3      | namecheap         |
+| healthy.credit | premium   | $500      | —             | high           | low    | 7      | name.com          |
+| had.credit     | available | $11.99    | —             | high           | low    | 3      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CREDIT One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CREDIT One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

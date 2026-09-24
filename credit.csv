@@ -1,6 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 e76b7c21-4a1f-40f7-9102-4c4d76860e83,aboutship.credit,available,11.99,,medium,low,10,name.com,,,
-b0941c88-44f2-4993-9b51-348d013f1afa,scornful.credit,available,11.99,141.99,medium,low,8,name.com,,,
+b0941c88-44f2-4993-9b51-348d013f1afa,scornful.credit,available,11.49,104.99,low,low,8,namesilo,,,23/09/2026 21:53
 65489f57-48fe-4aa2-bb2b-07a672b6cfcb,sixtysix.credit,available,,,medium,low,9,,,,
 b48b3a89-cab3-498e-8d11-3863e88c4ce8,oldgeezer.credit,available,9.48,131.98,low,low,10,namecheap,,,05/08/2026 19:25
 554842a3-388c-4a7a-9226-f6f10fa8f995,verse.credit,available,11.99,,high,low,5,name.com,,,
@@ -10,7 +10,7 @@ b48b3a89-cab3-498e-8d11-3863e88c4ce8,oldgeezer.credit,available,9.48,131.98,low,
 eb3c5fbc-dfd6-490a-9e2e-530546c4c8ea,suspense.credit,available,11.99,,high,low,8,name.com,,,
 572f94ad-0ef0-4037-9c81-36d60af0e8d9,climbable.credit,available,9.48,131.98,low,low,9,namecheap,,,07/08/2026 00:10
 c7aff563-42c5-42ee-8c9c-68428d74c686,pleasant.credit,available,11.99,,high,low,8,name.com,,,
-1802d42b-49f2-44b3-9f94-2623eea7cc33,continued.credit,available,11.99,141.99,high,low,9,name.com,,,
+1802d42b-49f2-44b3-9f94-2623eea7cc33,continued.credit,available,11.49,104.99,medium,low,9,namesilo,,,23/09/2026 22:14
 83efdb75-c9f9-45b7-b81a-38e7b5937ad0,amnic.credit,available,9.48,131.98,low,low,5,namecheap,,,
 6da6e308-8466-48fa-9717-f1c9fc3ce815,sunroof.credit,available,11.99,,high,low,7,name.com,,,
 2447ed06-dbdd-42fd-a46d-62e80a20951c,boundary.credit,available,11.49,104.99,low,low,8,namesilo,,,23/09/2026 01:32
@@ -24,10 +24,10 @@ a07d0a06-2963-41cf-b418-ab4d22292e80,actable.credit,available,9.48,131.98,low,lo
 fdda9ab0-93f3-4836-a0e8-1aea5ba98572,hydroponic.credit,available,9.48,131.98,low,low,10,namecheap,,,06/08/2026 10:34
 e4f32d1f-d806-44f7-97de-2fc2806f8d08,affected.credit,available,9.48,131.98,low,low,8,namecheap,,,
 6ed6fd1b-603b-4644-9bd9-1cdcab28c629,carriage.credit,available,11.99,,medium,low,8,name.com,,,
-0d54f6f2-a438-4e67-9b65-ab2193b869c3,corny.credit,available,11.99,141.99,medium,low,5,name.com,,,
+0d54f6f2-a438-4e67-9b65-ab2193b869c3,corny.credit,available,11.49,104.99,low,low,5,namesilo,,,23/09/2026 23:25
 4f87059a-1e01-4f6b-aaca-91db410d0a0a,phoney.credit,available,9.48,131.98,low,low,6,namecheap,,,08/08/2026 23:14
 673efb90-d4b8-48a9-8a4a-57a54dcec5a1,araceous.credit,available,9.48,131.98,low,low,8,namecheap,,,06/08/2026 11:36
-08a3474e-fd47-4367-bf7e-5bc53b45f059,parody.credit,available,11.99,,high,low,6,name.com,,,
+08a3474e-fd47-4367-bf7e-5bc53b45f059,parody.credit,available,11.49,104.99,medium,low,6,namesilo,,,23/09/2026 11:34
 e2020ef1-b468-440b-b9b6-af27b00f68f9,revelatory.credit,available,9.48,131.98,low,low,10,namecheap,,,06/08/2026 00:55
 49528419-fe38-4a87-97cd-99da4eeb75a8,flipthebird.credit,available,11.99,,medium,low,13,name.com,,,
 2e4624e5-2ebd-430c-b6b0-5a2222f230ac,payfor.credit,available,11.99,,high,low,7,name.com,,,
@@ -44,9 +44,9 @@ e4b2bbd0-4231-47e5-9ef2-2a9ba1a35a28,instead.credit,available,11.99,,high,low,7,
 f0ec94f4-b88a-4cbf-8e2b-2661835cb0d1,feels.credit,available,11.99,,high,low,5,name.com,,,
 e3fe2b22-13fa-4724-ba3e-5a65c6d6e5d1,deposits.credit,available,11.99,,medium,low,8,name.com,,,
 b8b0f11d-9d2c-4e05-99e9-e264e7561692,takeawife.credit,available,11.99,,low,low,11,name.com,,,
-b2a30f31-3ed9-42de-af42-ae02efcfde29,changing.credit,available,11.99,,medium,low,8,name.com,,,
+b2a30f31-3ed9-42de-af42-ae02efcfde29,changing.credit,available,11.49,104.99,low,low,8,namesilo,,,23/09/2026 13:46
 32ef196b-7700-4047-b61b-1ba480c2189f,carrie.credit,available,11.99,,high,low,6,name.com,,,
-89ffb80c-12e0-427d-a330-48f94aa5cdb8,compact.credit,available,11.99,141.99,high,low,7,name.com,,,
+89ffb80c-12e0-427d-a330-48f94aa5cdb8,compact.credit,available,11.49,104.99,medium,low,7,namesilo,,,23/09/2026 16:18
 4cf3edd5-91ff-44ef-b0d1-b957eadd26ca,decent.credit,available,,,medium,low,6,,,,
 1c7b949b-dcc8-4032-9932-bef0b479338e,kingdom.credit,premium,500,,high,low,7,name.com,,,
 6ec8aa76-7883-433b-850b-ad71f3ec2afd,plaguy.credit,available,9.48,131.98,low,low,6,namecheap,,,
@@ -115,9 +115,9 @@ aba13583-6eb0-486f-8dc0-acfb2305723e,offhanded.credit,available,9.48,131.98,low,
 82339855-c802-4247-a3f3-95136f071c22,bread.credit,available,9.48,131.98,medium,low,5,namecheap,,,08/09/2026 03:15
 0a082758-16af-4e19-909a-eb6d19ac0baf,documentation.credit,available,11.99,,medium,low,13,name.com,,,
 45fc2fd1-1e22-4cf6-9d6e-4b570b3de54f,chimney.credit,available,11.99,,high,low,7,name.com,,,
-3f030990-7c32-4a54-b132-83ca751e824a,required.credit,available,11.99,141.99,medium,low,8,name.com,,,
+3f030990-7c32-4a54-b132-83ca751e824a,required.credit,available,9.48,131.98,low,low,8,namecheap,,,23/09/2026 18:27
 fab03e0d-3d58-4176-89fb-fe845d02f2c3,critique.credit,available,11.99,,high,low,8,name.com,,,
-38950d9a-47c4-4cd1-99b7-81801be06d74,covert.credit,available,11.99,141.99,medium,low,6,name.com,,,
+38950d9a-47c4-4cd1-99b7-81801be06d74,covert.credit,available,11.49,104.99,low,low,6,namesilo,,,24/09/2026 00:53
 8a09c186-bbd1-42ad-943c-8c0b3ed22765,beating.credit,available,11.99,,high,low,7,name.com,,,
 da68c6d4-cedc-4420-879c-a69f8128e4fa,haveseenthisfilm.credit,available,11.99,,medium,low,19,name.com,,,
 d1e9de21-bc6c-48c4-8842-cc170238ae60,australiaday.credit,available,11.99,,high,low,13,name.com,,,
@@ -125,9 +125,9 @@ d1e9de21-bc6c-48c4-8842-cc170238ae60,australiaday.credit,available,11.99,,high,l
 7c83d96e-46f4-4302-82ea-e9380188142a,advice.credit,available,11.99,,high,low,6,name.com,,,
 1d97bb5b-7037-45e9-bbb9-d77fe3ddc07c,shoulderblade.credit,available,11.99,,medium,low,14,name.com,,,
 f7583633-15fe-498d-9113-b4a0ac162be3,deadly.credit,available,11.49,104.99,low,low,6,namesilo,,,22/09/2026 16:43
-881e1783-25c0-4d39-89cf-ce9c4337b378,famous.credit,available,11.99,,high,low,6,name.com,,,
+881e1783-25c0-4d39-89cf-ce9c4337b378,famous.credit,available,11.49,104.99,medium,low,6,namesilo,,,23/09/2026 13:15
 ecca99fc-58b3-4f63-be10-95874915d467,generalizeddisease.credit,available,11.99,,low,low,19,name.com,,,
-881ef84d-5026-4211-a9fa-ead9fbd7930b,superb.credit,available,11.99,,high,low,6,name.com,,,
+881ef84d-5026-4211-a9fa-ead9fbd7930b,superb.credit,available,11.49,104.99,medium,low,6,namesilo,,,23/09/2026 09:28
 948eaecc-fba7-40fb-b54c-2f9a28e2c903,maddened.credit,available,9.48,131.98,low,low,8,namecheap,,,
 dd80501a-6a67-4326-b1a5-963b0ce35763,amusing.credit,available,9.48,131.98,low,low,7,namecheap,,,
 fa5a8940-fb7e-4ebc-afdc-80d45248b40c,aweless.credit,available,9.48,131.98,low,low,7,namecheap,,,08/08/2026 00:50
@@ -169,7 +169,7 @@ c0d01143-aa63-4935-a961-18a54d0ec2ed,whatthehell.credit,available,11.99,,low,low
 31788962-08d7-4b94-b957-a8b64483d766,commonkiwi.credit,available,11.99,,medium,low,11,name.com,,,
 eb4dc62a-5502-4c63-bc98-505746f69227,instagrammable.credit,available,11.99,,high,low,14,name.com,,,
 582a6fb2-91de-4f2d-9ba8-89b60c16b789,batman.credit,available,11.99,,high,low,6,name.com,,,
-72c566b3-c723-4940-802c-9e599e32890f,yellow.credit,available,11.99,,high,low,6,name.com,,,
+72c566b3-c723-4940-802c-9e599e32890f,yellow.credit,available,11.49,104.99,medium,low,6,namesilo,,,23/09/2026 14:15
 d3dff9a4-6b34-4234-8c65-8ddaaf884cde,solely.credit,available,9.48,131.98,low,low,6,namecheap,,,
 cb83dc2f-d797-41f6-8cd6-fd8060803985,tightfitting.credit,available,11.99,,medium,low,13,name.com,,,
 87e7ef6f-60a0-4697-aefb-c0f9da83ac98,aftuh.credit,available,11.99,,medium,low,5,name.com,,,
@@ -205,7 +205,7 @@ bdfa0acf-94a0-4e38-ba27-7e4fc61fae8b,passinggrade.credit,available,11.99,,medium
 90ec7558-83ac-47e1-9d69-7246d5077831,letthecatout.credit,available,11.99,,high,low,15,name.com,,,
 a1c99b93-08f2-44a7-a937-1afeb69cc775,proud.credit,available,11.99,,high,low,5,name.com,,,
 5ea6de43-99de-4b72-9a01-691052147b46,agelong.credit,available,9.48,131.98,low,low,7,namecheap,,,
-7b786330-6e25-40d5-abff-4d0771f09486,flop.credit,available,11.99,,medium,low,4,name.com,,,
+7b786330-6e25-40d5-abff-4d0771f09486,flop.credit,available,11.49,104.99,low,low,4,namesilo,,,23/09/2026 12:03
 2b1bda4f-e717-460e-88b1-b94f0ceedeb7,upper.credit,available,11.99,,high,low,5,name.com,,,
 b2f30ef0-89ee-4078-af57-202686a5beef,plane.credit,available,11.99,,high,low,5,name.com,,,
 36056f0f-1e1b-4db1-8316-fba7d5ad70a1,pillowcase.credit,available,11.99,,low,low,11,name.com,,,
@@ -238,7 +238,7 @@ e7735d09-1e82-48fe-bd18-8b21fa8c1bed,lego.credit,available,,,high,low,4,,,,
 95c51fbb-028a-4c36-9eb5-d7329130beaa,taken.credit,available,11.99,,high,low,5,name.com,,,
 8e13cff5-2676-4e29-bfda-489d69a22433,amygdaloid.credit,available,9.48,131.98,low,low,10,namecheap,,,
 a5b74370-d211-40d3-99ab-e2c8ec3d7cd5,aerated.credit,available,9.48,131.98,low,low,7,namecheap,,,
-406433ed-53ac-45c8-8194-c01effa5dde0,pervert.credit,available,11.99,141.99,high,low,7,name.com,,,
+406433ed-53ac-45c8-8194-c01effa5dde0,pervert.credit,available,11.49,104.99,low,low,7,namesilo,,,23/09/2026 23:54
 fa511a8f-070e-492f-b1e0-dff5fd55192d,keepcompany.credit,available,11.99,,high,low,12,name.com,,,
 6aa56753-e307-4209-a64c-786e36abfeca,creature.credit,available,9.48,131.98,low,low,8,namecheap,,,22/09/2026 04:42
 757dcf6e-6f2f-431c-895c-790b6d73dae4,relate.credit,available,9.48,131.98,low,low,6,namecheap,,,07/08/2026 07:03
@@ -375,7 +375,7 @@ c2de57ec-140e-4457-aa77-2e7cab195986,scientist.credit,available,11.99,,high,low,
 99c17150-6299-4c7b-b6f9-eb4bfd6af79f,nobody.credit,available,11.99,,medium,low,6,name.com,,,
 dfd13f42-1e84-4114-a7e8-4be0dfee1966,useful.credit,available,11.99,,high,low,6,name.com,,,
 cce4f031-05f9-4b71-913a-ec7b1d0a4611,scrub.credit,available,11.99,,high,low,5,name.com,,,
-89f506a8-34b4-4af2-a5af-43114ab477bd,powerful.credit,available,11.99,,high,low,8,name.com,,,
+89f506a8-34b4-4af2-a5af-43114ab477bd,powerful.credit,available,9.48,131.98,medium,low,8,namecheap,,,23/09/2026 09:23
 c1e344b8-a77c-474e-a44a-9d263d30d53b,courses.credit,available,11.99,,high,low,7,name.com,,,
 23b87c31-5431-4ce9-a493-81226e2a26fa,shavingoil.credit,available,11.99,,low,low,11,name.com,,,
 21c742ad-c69a-4274-92e2-20ba6d43309b,toll.credit,available,,,medium,low,4,,,,
@@ -458,14 +458,14 @@ c2202360-bc09-454b-93d0-c0c0d438f595,serialkiller.credit,available,11.99,,medium
 c34f4a2f-7530-499a-8060-cb7d2ecb4dd7,increasing.credit,available,11.99,,high,low,10,name.com,,,
 80f11266-4945-40bf-8c05-991b62a4723a,sniff.credit,available,11.99,,high,low,5,name.com,,,
 ddda4c9f-58f8-4ea6-97e3-f3a1a2178b7b,monday.credit,available,11.99,,high,low,6,name.com,,,
-924242e6-9573-43cd-bbb9-a6e3693eaea8,comforted.credit,available,11.99,,high,low,9,name.com,,,
+924242e6-9573-43cd-bbb9-a6e3693eaea8,comforted.credit,available,9.48,131.98,medium,low,9,namecheap,,,23/09/2026 15:14
 d51cebf0-a5fe-4842-9912-67dd41a0383b,stillborn.credit,available,9.48,131.98,low,low,9,namecheap,,,
 5d55a18e-454a-4c84-b8c6-e84214c19801,signin.credit,available,9.48,131.98,medium,low,7,namecheap,,,17/09/2026 03:42
-5c8310aa-66d9-4c7d-946d-fef7aabae5e0,usage.credit,available,11.99,141.99,high,low,5,name.com,,,
+5c8310aa-66d9-4c7d-946d-fef7aabae5e0,usage.credit,available,11.49,104.99,medium,low,5,namesilo,,,24/09/2026 04:06
 a9eae2e7-96b1-4455-9c9d-b187d5f5166e,airmarshal.credit,available,11.99,,high,low,11,name.com,,,
 614857aa-d107-4329-8da6-36f8c3f4e5d7,demoniac.credit,available,9.48,131.98,low,low,8,namecheap,,,
 e5661428-e5ec-4761-ad21-e5c3fa44f1c6,onthepointof.credit,available,11.99,,medium,low,15,name.com,,,
-83e61646-a0c5-4669-bec7-d02bede47dde,builtin.credit,available,11.99,,high,low,8,name.com,,,
+83e61646-a0c5-4669-bec7-d02bede47dde,builtin.credit,available,11.49,104.99,medium,low,8,namesilo,,,23/09/2026 10:27
 54e7ed49-f9c6-4f1c-a486-7ae2bc885966,expand.credit,available,11.99,141.99,high,low,6,name.com,,,
 8136d65b-f88c-4163-a13c-0050ed328afa,complement.credit,available,11.99,,high,low,10,name.com,,,
 416a0928-bf6a-4103-a2a4-7430898fcaf1,agraphic.credit,available,9.48,131.98,low,low,8,namecheap,,,
@@ -486,7 +486,7 @@ bd7e3cf4-9d26-4962-ac78-23b77d1f998e,gone.credit,available,11.49,104.99,low,low,
 62bd12d1-900c-48b1-a257-8a010ce0aec6,successful.credit,available,11.99,,high,low,10,name.com,,,
 63676be5-2602-453d-abc9-099407825565,generalgoods.credit,available,11.99,,medium,low,13,name.com,,,
 27f2df86-0171-41fc-b627-fc1b3fc27a00,aligning.credit,available,9.48,131.98,low,low,8,namecheap,,,
-d97c0461-422e-4a63-b028-ce3e58b03f9a,defend.credit,available,11.99,,high,low,6,name.com,,,
+d97c0461-422e-4a63-b028-ce3e58b03f9a,defend.credit,available,11.49,104.99,medium,low,6,namesilo,,,23/09/2026 13:40
 a91b80ee-f2f7-45aa-a71e-a43d314de88e,plug.credit,available,11.99,,high,low,4,name.com,,,
 a6bf4b6f-479d-4671-ac20-7e2b99cde27f,blueraspberry.credit,available,11.99,,high,low,14,name.com,,,
 9a817453-0797-4ddd-b127-25d9accd05a7,aufait.credit,available,9.48,131.98,low,low,7,namecheap,,,
@@ -523,7 +523,7 @@ ef203376-c5c2-49e8-a1b3-2bad43b0d264,trick.credit,available,9.48,131.98,medium,l
 91a573b5-8e66-4792-979f-9df14363b9c5,ambitiously.credit,available,11.99,,medium,low,11,name.com,,,
 fbebfd90-8690-4b32-a648-99f4e9141371,sandlike.credit,available,9.48,131.98,low,low,8,namecheap,,,06/08/2026 17:36
 4ae75d24-b357-42d8-b527-224c98590652,disparity.credit,available,11.99,,medium,low,9,name.com,,,
-219c173c-3583-4fb9-a1fb-28a9d1209c7b,preventive.credit,available,11.99,141.99,high,low,10,name.com,,,
+219c173c-3583-4fb9-a1fb-28a9d1209c7b,preventive.credit,available,11.49,104.99,medium,low,10,namesilo,,,23/09/2026 22:24
 f73246b3-78be-4962-90dc-da8a6b935648,taxation.credit,available,11.99,,medium,low,8,name.com,,,
 bce51e33-72d5-4a48-ae65-7f84a1ff165c,childbenefit.credit,available,11.99,,medium,low,13,name.com,,,
 3a24afaa-b1f0-49e0-915f-164b4f875854,wording.credit,available,11.99,,high,low,7,name.com,,,
@@ -541,10 +541,10 @@ a209642a-80d3-4b99-8dec-f3b5b9e85ac8,whitesauce.credit,available,11.99,,low,low,
 efc911d0-6338-4f77-8f5a-e2470f2e1dd0,advisory.credit,available,9.48,131.98,medium,low,8,namecheap,,,
 8bc04d09-9469-44f0-a6f8-29af40b1b407,thereagain.credit,available,11.99,,low,low,11,name.com,,,
 3790bd39-4b96-484f-9d51-0fda5494d4c7,mist.credit,available,11.99,,medium,low,4,name.com,,,
-5a7f9443-0f75-4a49-8fe1-0c91d9ed553e,masterful.credit,available,11.99,141.99,high,low,9,name.com,,,
+5a7f9443-0f75-4a49-8fe1-0c91d9ed553e,masterful.credit,available,9.48,131.98,medium,low,9,namecheap,,,23/09/2026 21:35
 ceb09196-d29c-4304-b1ab-c33693829838,abscessed.credit,available,9.48,131.98,low,low,9,namecheap,,,
 76fc9c7b-91db-4834-9c21-4eaf713ab43e,oddmanwins.credit,available,11.99,,low,low,12,name.com,,,
-26d4cf5f-8351-4871-bd8e-c8ca724d6e3d,chip.credit,available,11.99,141.99,high,low,4,name.com,,,
+26d4cf5f-8351-4871-bd8e-c8ca724d6e3d,chip.credit,available,9.48,131.98,medium,low,4,namecheap,,,24/09/2026 01:56
 c484f00c-4ddb-4ab4-9467-ca672c2e673e,socialliberal.credit,available,11.99,,low,low,14,name.com,,,
 6a13dc53-925e-4999-b289-9d2a70a70dc1,parenting.credit,available,11.99,,high,low,9,name.com,,,
 769524aa-a8bd-4f6a-9e24-e341c25715c1,refreshed.credit,available,11.99,,high,low,9,name.com,,,
@@ -552,7 +552,7 @@ ef562cc4-1fea-4ff6-afbc-7fe6b9f875d6,unplug.credit,available,11.99,,high,low,6,n
 bebf8187-cf3f-48bf-9c09-e74b8dc94d96,flush.credit,available,9.48,131.98,medium,low,5,namecheap,,,
 59f98ef4-2053-4679-8f61-d83911afa4f0,rescheduling.credit,available,11.99,,medium,low,12,name.com,,,
 829a0287-1386-4076-8eb9-6043ee86ef9c,barbadian.credit,available,9.48,131.98,low,low,9,namecheap,,,08/08/2026 15:21
-bb55f990-455b-49ae-9abd-2a2961dbfc96,confirming.credit,available,11.99,141.99,high,low,10,name.com,,,
+bb55f990-455b-49ae-9abd-2a2961dbfc96,confirming.credit,available,11.49,104.99,medium,low,10,namesilo,,,23/09/2026 19:45
 acf15742-9d84-47f3-8bed-380a9ddc075f,prick.credit,available,9.48,131.98,low,low,5,namecheap,,,08/08/2026 23:38
 6a0ae214-ab29-47ff-8089-c8ada091137f,anticlinal.credit,available,9.48,131.98,low,low,10,namecheap,,,
 ac10d302-7757-424a-8426-cf7ad786dfe5,tongue.credit,available,11.99,,medium,low,6,name.com,,,
@@ -596,7 +596,6 @@ e6f1b2b3-f959-4f52-bea9-595402eb22b0,terzetto.credit,available,9.48,131.98,low,l
 f5762981-b1a3-413f-a470-e2b19ad0d9f3,eachyear.credit,available,11.99,,medium,low,9,name.com,,,
 1486c282-e3fc-48c0-8796-a8ee30ea26ac,boxcoat.credit,available,11.99,,medium,low,8,name.com,,,
 19ff0ba2-7bb4-41b6-b11b-fbac20746484,sextet.credit,available,9.48,131.98,low,low,6,namecheap,,,
-f34320f0-5e31-474d-af55-9fff9637947c,axle.credit,available,,,high,low,4,,,,
 f20874e1-113b-4ef6-bb68-d7f6080345f1,montreal.credit,available,11.99,,medium,low,8,name.com,,,
 c8eb106a-c0b9-4c82-8fec-8a4492068480,literally.credit,available,11.99,,medium,low,9,name.com,,,
 3a805ee3-1ce8-4ac1-a93b-925b3476abc7,btw.credit,available,11.99,,high,low,3,name.com,,,
@@ -608,7 +607,7 @@ af771b8f-6e1f-4f35-8d46-8c71e4b748b8,flow.credit,resell,,,high,medium,4,"Sav.com
 67ea2433-319d-4e20-958d-5a667918c9a8,incometax.credit,available,11.99,,medium,low,10,name.com,,,
 0d89e49b-831e-4098-813e-e8fb7e8f597b,fearless.credit,available,11.49,104.99,medium,low,8,namesilo,,,22/09/2026 12:19
 12c1ed4b-2a92-43cf-8903-48905898933c,gosing.credit,available,11.99,,high,low,7,name.com,,,
-f56afbc9-9dfc-47dc-89a1-f5a57e238a60,compatible.credit,available,11.99,141.99,high,low,10,name.com,,,
+f56afbc9-9dfc-47dc-89a1-f5a57e238a60,compatible.credit,available,9.48,131.98,medium,low,10,namecheap,,,23/09/2026 16:57
 fa5b9295-0605-4c95-a5df-69dc89d407d2,legislative.credit,available,11.99,,high,low,11,name.com,,,
 de4ef9e6-1486-4f36-bef8-e9b2bcecc6b1,diploma.credit,available,11.99,,high,low,7,name.com,,,
 8faf8cf2-d947-40d9-b93f-a26c4a22a3fa,fortieth.credit,available,9.48,131.98,low,low,8,namecheap,,,
@@ -654,12 +653,12 @@ ff1c744d-b205-480b-89bf-ab42a768711c,maintained.credit,available,11.99,,medium,l
 5bd19b20-c15f-4d90-8fdd-9eb886279fa8,liii.credit,available,9.48,131.98,low,low,4,namecheap,,,
 847f590d-d2e8-4def-8784-6a14ac2792e3,youthink.credit,available,11.99,,low,low,9,name.com,,,
 65c95b0e-c4d6-4a08-8fd3-68a2f07ee989,arteriolar.credit,available,9.48,131.98,low,low,10,namecheap,,,06/08/2026 22:34
-2d65271c-6c90-4798-902b-500073b41cb8,appointment.credit,available,11.99,,high,low,11,name.com,,,
+2d65271c-6c90-4798-902b-500073b41cb8,appointment.credit,available,11.49,104.99,medium,low,11,namesilo,,,24/09/2026 03:38
 a3b93cd0-cb6e-45f6-9ffb-48d7585ccce0,superstar.credit,available,9.48,131.98,medium,low,9,namecheap,,,21/09/2026 17:56
 37ef48fd-566b-41eb-bf22-58925c430951,jimthorpe.credit,available,11.99,,high,low,10,name.com,,,
 fe23b03e-a86d-4ba6-b93d-24921da43f4d,anionic.credit,available,9.48,131.98,low,low,7,namecheap,,,
 5ae40b32-4785-4cc8-b137-464899e4f624,airsick.credit,available,9.48,131.98,low,low,7,namecheap,,,
-343a8e77-2824-45b2-838a-372268976a1b,limiting.credit,available,11.99,141.99,medium,low,8,name.com,,,
+343a8e77-2824-45b2-838a-372268976a1b,limiting.credit,available,11.49,104.99,medium,low,8,namesilo,,,23/09/2026 19:42
 76050ed3-6d2f-45dc-ae17-f86d2ac3d77f,humourous.credit,available,11.99,,high,low,9,name.com,,,
 a8a03ebe-bf34-44b1-aeb9-172904e3eb2f,vibrate.credit,available,11.99,,high,low,7,name.com,,,
 dccbce44-6b84-424f-8a92-f757fc304931,harddrive.credit,available,11.99,,high,low,10,name.com,,,
@@ -709,7 +708,7 @@ e77e3944-b8dd-42f1-b179-0c84bf41eaec,astatic.credit,available,9.48,131.98,low,lo
 2592dc58-9455-4be7-8588-065c6b2eac16,pin.credit,available,11.99,,high,low,3,name.com,,,
 62a3ba26-61c8-42d4-a93a-e864243a89d1,cleverly.credit,available,11.99,,medium,low,8,name.com,,,
 f74948f5-789e-4768-8004-457242b989bf,sexual.credit,available,11.99,,high,low,6,name.com,,,
-e17649d4-9814-4862-b24c-5ce399739c76,logo.credit,available,11.99,,medium,low,4,name.com,,,
+e17649d4-9814-4862-b24c-5ce399739c76,logo.credit,available,9.48,131.98,medium,low,4,namecheap,,,23/09/2026 08:54
 4376d88f-a98e-4759-9e94-17399885ed93,leadership.credit,available,11.99,,high,low,10,name.com,,,
 9203a4af-61e9-4949-bd4f-9f4715cde72a,routine.credit,available,11.99,,high,low,7,name.com,,,
 1b29bd5f-fb8a-4c6a-8a41-0c6f872bdf0c,whatabout.credit,available,11.99,,low,low,10,name.com,,,
@@ -720,7 +719,7 @@ c38c8c1d-b110-4eef-b85a-6a50b63962e4,apostolic.credit,available,9.48,131.98,low,
 d6825eaa-e6be-4286-b307-859c61c59e06,shooting.credit,available,11.99,,medium,low,8,name.com,,,
 8c72a177-e897-47ad-be7a-f64f844774ab,getting.credit,available,11.99,,high,low,7,name.com,,,
 3a0b217e-47f9-4bd8-9071-f589f50ad55c,lookatme.credit,available,11.99,,medium,low,10,name.com,,,
-a0e84f26-8d6f-4f83-838c-999722109055,creepy.credit,available,11.99,141.99,medium,low,6,name.com,,,
+a0e84f26-8d6f-4f83-838c-999722109055,creepy.credit,available,9.48,131.98,low,low,6,namecheap,,,24/09/2026 01:42
 3b7f936f-629e-4cb4-907d-22ee08f4be99,outlet.credit,available,11.99,,high,low,6,name.com,,,
 ae2bf618-a9ae-4bcb-91a1-178250b1c4ae,sauna.credit,available,11.99,,high,low,5,name.com,,,
 05225e0f-be7e-4575-9a63-c9fec23568e5,strawberryred.credit,available,11.99,,low,low,14,name.com,,,
@@ -791,7 +790,7 @@ cc820ca6-5311-48d8-b051-c0e9586a9e1c,alight.credit,available,9.48,131.98,low,low
 54666296-d9bc-4d1e-9212-b341fadf14f0,attachment.credit,available,11.99,,high,low,10,name.com,,,
 d62cbd8a-cddd-4f6b-a642-a131a515e5c1,psyche.credit,available,11.99,,medium,low,6,name.com,,,
 a09f13aa-11b9-49bf-867e-7c8072a96022,afebrile.credit,available,9.48,131.98,low,low,8,namecheap,,,
-1764c6f1-04db-4785-893d-cf0688575489,cunning.credit,available,11.99,141.99,medium,low,7,name.com,,,
+1764c6f1-04db-4785-893d-cf0688575489,cunning.credit,available,11.49,104.99,low,low,7,namesilo,,,24/09/2026 01:26
 6a317be0-9f8e-41f6-a178-a794f48ad32d,ackack.credit,available,9.48,131.98,low,low,7,namecheap,,,
 d1164de6-bfb4-4e57-902f-978a5116d725,archosaur.credit,available,9.48,131.98,low,low,9,namecheap,,,06/08/2026 15:57
 8e761f70-6f83-4e48-b712-8fb977839672,fiftynine.credit,available,9.48,131.98,low,low,10,namecheap,,,
@@ -802,11 +801,11 @@ fe6a13a2-4f29-4e2f-a2ab-a0e9066f1d8f,thiscoming.credit,available,11.99,,low,low,
 42596fff-bc4e-49cb-b0b6-9f7e615121cc,appendant.credit,available,9.48,131.98,low,low,9,namecheap,,,06/08/2026 06:34
 54f55d9a-e103-453a-9ebc-c37f9a7af196,very.credit,available,11.99,,high,low,4,name.com,,,
 720084d6-d3d6-4efb-88f4-c4b85c84f3b2,deepdish.credit,available,11.99,,high,low,9,name.com,,,
-90713ccb-1176-41d5-bbc7-f1e20ea2ab50,resume.credit,available,11.99,141.99,high,low,6,name.com,,,
+90713ccb-1176-41d5-bbc7-f1e20ea2ab50,resume.credit,available,11.49,104.99,medium,low,6,namesilo,,,24/09/2026 04:16
 c44acf57-c34b-468b-bffc-fc55d6635289,privileged.credit,available,11.99,,medium,low,10,name.com,,,
 e65a31cb-a33c-4747-8379-1fcd70b41e8f,vii.credit,available,9.48,131.98,low,low,3,namecheap,,,
 b39b0c23-3947-45f7-a76f-e3eb2ebbf527,fired.credit,available,11.99,141.99,medium,low,5,name.com,,,
-c3dae4d1-8ea0-499b-a9de-3f1c2ee3366f,crafty.credit,available,11.99,141.99,medium,low,6,name.com,,,
+c3dae4d1-8ea0-499b-a9de-3f1c2ee3366f,crafty.credit,available,9.48,131.98,low,low,6,namecheap,,,24/09/2026 01:24
 97fa301b-44a2-42aa-a552-5a143337ece2,alarmed.credit,available,9.48,131.98,low,low,7,namecheap,,,
 8700720c-f658-4895-a961-e1d28c9289a6,anybudy.credit,available,11.99,,medium,low,7,name.com,,,
 7d98befe-e722-4415-adb3-bfe0f0cad0cd,appetising.credit,available,9.48,131.98,low,low,10,namecheap,,,06/08/2026 06:50
@@ -887,10 +886,10 @@ ca9a8d3e-3c74-455d-af4e-642bcc3d2a6b,bundle.credit,available,11.99,,high,low,6,n
 659094eb-c482-428b-9fd2-896a84048b2e,problem.credit,premium,118.8,118.8,high,low,7,namesilo,,,
 2562d9e4-b094-466c-847a-5a98b163eb77,poundcake.credit,available,11.99,,medium,low,10,name.com,,,
 62e535d2-cfd3-4e34-8d86-7f48115eaceb,ascendent.credit,available,9.48,131.98,low,low,9,namecheap,,,
-58854d0b-d769-4989-8aa8-38c88bec1489,conclusion.credit,available,11.99,,high,low,10,name.com,,,
+58854d0b-d769-4989-8aa8-38c88bec1489,conclusion.credit,available,9.48,131.98,medium,low,10,namecheap,,,23/09/2026 14:51
 cec128f7-539a-46b3-a9c6-edde5a3f1f8c,brighten.credit,available,11.99,,high,low,8,name.com,,,
 95b838e6-931a-47ba-a86b-8fa9a744e804,press.credit,available,11.99,,medium,low,5,name.com,,,
-c81e7e8b-5b94-4543-b834-205cd5158f41,room.credit,available,9.48,131.98,medium,low,4,namecheap,,,08/09/2026 08:37
+c81e7e8b-5b94-4543-b834-205cd5158f41,room.credit,available,11.49,104.99,medium,low,4,namesilo,,,23/09/2026 08:08
 0276e1bf-75b5-4130-96e8-3de31de4008d,westend.credit,available,11.99,,medium,low,8,name.com,,,
 31475a8c-9ad7-4ef9-87d2-4224ba81fc61,atbest.credit,available,11.99,,medium,low,7,name.com,,,
 d13fdece-18b2-48a4-a883-d766fceb861d,plentiful.credit,available,11.99,,high,low,9,name.com,,,
@@ -908,7 +907,7 @@ a69022cf-a4e1-4340-a28d-c3833bf1486f,consent.credit,available,9.48,131.98,medium
 917096e1-4acb-4afb-aeae-1a1fc67025fc,ampullar.credit,available,9.48,131.98,low,low,8,namecheap,,,
 83e197b4-c61e-4d2d-bfd9-fcb3db8c0421,andorran.credit,available,9.48,131.98,low,low,8,namecheap,,,
 49678444-b124-472e-8cdc-84c4c37263b1,north.credit,available,11.99,,high,low,5,name.com,,,
-0e5646b7-5aaa-496f-b3fb-98beaf63eab6,forced.credit,available,11.99,141.99,medium,low,6,name.com,,,
+0e5646b7-5aaa-496f-b3fb-98beaf63eab6,forced.credit,available,9.48,131.98,low,low,6,namecheap,,,23/09/2026 21:10
 27494114-6d4a-4ee4-915c-a39c62fda0c7,gotoilet.credit,available,11.99,,medium,low,9,name.com,,,
 84163620-4567-4005-aa56-f06c7d80ed39,geometry.credit,available,11.99,,medium,low,8,name.com,,,
 30b1c746-bcdc-499e-88cb-9b9c9f3c961e,adhominem.credit,available,9.48,131.98,low,low,10,namecheap,,,
@@ -952,7 +951,7 @@ bd83846f-2460-49b0-84ea-ff62d5042515,retracted.credit,available,11.99,,medium,lo
 873aa1fc-dd2f-474e-8b0e-51797c10ffd5,into.credit,available,11.99,,medium,low,4,name.com,,,
 f7852678-99a9-497e-be0b-eb3dc99d2d3f,frenchmustard.credit,available,11.99,,high,low,14,name.com,,,
 d7268d2b-bbdd-4449-9946-256bb1470685,manual.credit,available,11.99,,medium,low,6,name.com,,,
-fa04a03a-46d7-4335-b2b2-4895d0437838,soft.credit,resell,,,high,low,4,"Sav.com, LLC",08/09/2025 09:11,08/09/2026 09:11,
+fa04a03a-46d7-4335-b2b2-4895d0437838,soft.credit,resell,,,medium,low,4,"Sav.com, LLC",08/09/2025 09:11,08/09/2027 09:11,24/09/2026 04:03
 26eee19f-c254-4be6-9f53-76caa9e83308,readfor.credit,available,11.99,,low,low,8,name.com,,,
 b64626c6-8cb1-4549-9166-f6d1c105dc9d,exercisebike.credit,available,11.99,,high,low,13,name.com,,,
 053c7a85-e2a0-47fd-af6f-4f7bb6ad5e9d,bouncing.credit,available,9.48,131.98,medium,low,8,namecheap,,,23/09/2026 01:19
@@ -982,10 +981,10 @@ b4af12b7-1ca4-464a-a3b0-4921be992237,grueling.credit,available,9.48,131.98,low,l
 e2fee39d-46d4-43c6-8e5b-b7f6772f32e1,grocery.credit,available,9.48,131.98,medium,low,7,namecheap,,,08/09/2026 13:48
 faa4de58-8574-4f33-b7fa-c34771dfeba6,tax.credit,resell,,,high,medium,3,Dynadot Inc,20/11/2020 14:43,20/11/2026 14:43,
 d7b8982b-ab84-47d6-b99c-24b0dbe7a189,withering.credit,available,9.48,131.98,low,low,9,namecheap,,,
-40a47395-38c2-4e19-9b97-53dfee2e9ccd,just.credit,resell,,,high,medium,4,"Sav.com, LLC",30/01/2025 15:05,30/01/2026 15:05,
 fd26fbbf-c440-47fc-9f04-157d1f46f03e,finalyearproject.credit,available,11.99,,high,low,18,name.com,,,
 e0d67fda-2054-4c51-b890-e12643e59df1,hands.credit,available,9.48,131.98,low,low,5,namecheap,,,08/09/2026 04:01
 28762a65-7831-4d33-a361-6c26bbc83520,equal.credit,available,9.48,131.98,medium,low,5,namecheap,,,21/09/2026 18:27
+93ccd0de-7507-4c08-91a3-f4b845fdc394,gay.credit,available,9.48,131.98,medium,low,3,namecheap,,,23/09/2026 09:22
 f21995fb-11ab-4e96-b068-33edaf411678,businesstrip.credit,available,11.99,,high,low,13,name.com,,,
 3a411ca1-047d-491c-99a2-3aab23ae3c3e,suffer.credit,available,11.99,,medium,low,6,name.com,,,
 e5ce9236-ccf8-4e73-9032-46f9a33f6dfa,pearlwhite.credit,available,11.99,,low,low,11,name.com,,,
@@ -999,3 +998,4 @@ aa17706c-3604-4edc-af75-61b848cef649,saint.credit,available,11.99,,high,low,5,na
 612d7089-a4eb-49cf-af3f-b86ca729893d,fourth.credit,available,9.48,131.98,low,low,6,namecheap,,,
 bcf46194-3725-41ca-80cf-53ccd0869c95,disappointed.credit,available,11.99,,medium,low,12,name.com,,,
 2853954f-7ad7-42df-8bec-ba2c1bfe1abb,forgiving.credit,available,11.49,104.99,medium,low,9,namesilo,,,21/09/2026 14:52
+df79247e-b56c-4fa9-a483-890e01ce7c18,ebay.credit,available,,,high,low,4,,,,
