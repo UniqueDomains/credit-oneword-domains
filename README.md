@@ -1,10 +1,10 @@
-# Available .CREDIT One-Word Domains (32,278)
+# Available .CREDIT One-Word Domains (22,607)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C278%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C607%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .credit one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,278 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,607 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,278 domains · **Median ask:** $11.88 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 22,607 domains · **Median ask:** $12.46 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/credit`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| ash.credit   | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
-| and.credit   | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                               |
-| net.credit   | premium   | $500      | —             | high           | medium | 3      | name.com                                                  |
-| ass.credit   | available | $9.48     | $131.98       | high           | low    | 3      | namecheap                                                 |
-| god.credit   | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
-| usa.credit   | premium   | $500      | —             | high           | medium | 3      | name.com                                                  |
-| btw.credit   | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
-| tax.credit   | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                               |
-| need.credit  | premium   | $242      | $242          | high           | low    | 4      | namesilo                                                  |
-| clx.credit   | available | $9.48     | $131.98       | high           | low    | 3      | namecheap                                                 |
-| real.credit  | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| sale.credit  | premium   | $250      | —             | high           | low    | 4      | name.com                                                  |
-| dad.credit   | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
-| time.credit  | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 31                                         |
-| save.credit  | premium   | $500      | —             | high           | low    | 4      | name.com                                                  |
-| egg.credit   | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
-| tune.credit  | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                          |
-| want.credit  | premium   | $500      | —             | high           | low    | 4      | name.com                                                  |
-| fig.credit   | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
-| block.credit | resell    | —         | —             | high           | low    | 5      | Porkbun LLC                                               |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| ade.credit     | available | $11.49    | $104.99       | high           | low    | 3      | namesilo          |
+| mon.credit     | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 15 |
+| ads.credit     | premium   | $131.98   | —             | high           | medium | 3      | namecheap         |
+| asa.credit     | available | $9.48     | $131.98       | high           | low    | 3      | namecheap         |
+| neo.credit     | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 24 |
+| dot.credit     | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo          |
+| cao.credit     | available | $11.49    | $104.99       | high           | low    | 3      | namesilo          |
+| tap.credit     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc       |
+| rate.credit    | premium   | $520      | $520          | high           | low    | 4      | namecheap         |
+| cnn.credit     | available | $11.99    | —             | high           | low    | 3      | name.com          |
+| flow.credit    | resell    | —         | —             | high           | high   | 4      | Sav.com, LLC - 1  |
+| estate.credit  | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo          |
+| ear.credit     | available | $11.99    | —             | high           | low    | 3      | name.com          |
+| only.credit    | resell    | —         | —             | high           | medium | 4      | Porkbun LLC       |
+| banking.credit | premium   | $260      | $260          | high           | low    | 7      | namecheap         |
+| fey.credit     | available | $9.48     | $131.98       | medium         | low    | 3      | namecheap         |
+| star.credit    | resell    | —         | —             | high           | medium | 4      | Porkbun LLC       |
+| college.credit | premium   | $500      | —             | high           | low    | 7      | name.com          |
+| fry.credit     | available | $9.48     | $131.98       | high           | low    | 3      | namecheap         |
+| brain.credit   | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,278 live domains                        |
+| 1,000-row public sample | 22,607 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 1 high-demand names under $2,500           |
+| Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CREDIT One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CREDIT One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
